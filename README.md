@@ -2,7 +2,7 @@
 - 👀 I'm a student in software development in France (CNED : French Online School)
 - 🏠 I live both in France 🇫🇷 and in the Philippines 🇵🇭
 - 💞️ I’m currently learning C#, Python, HTML, PHP, Java...
-- 📫 You can reach me on calvin.ndiaye@icloud.com
+- 📫 You can reach me on calvin.ndiaye.pro@gmail.com
 
 <!---
 Calvin-22/Calvin-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
