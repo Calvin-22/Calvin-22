@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calvin-22
 - 👀 I'm a student in software development in France (CNED : French Online School)
-- 🏠 I live both in France 🇫🇷 and in the Philippines 🇵🇭
+- 🏠 I live in Annecy
 - 💞️ I’m currently learning C#, Python, HTML, PHP, Java...
 - 📫 You can reach me on calvin.ndiaye.pro@gmail.com
 
